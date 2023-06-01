@@ -2,6 +2,8 @@
 
 # ✨ Vini Mini Chatbox - UI Stack✨
 
+## Beschrijving 📃
+
 ## Wireflow ✏️ 
 
 ## Licentie
