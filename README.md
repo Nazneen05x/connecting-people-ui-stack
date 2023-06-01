@@ -4,6 +4,12 @@
 
 ## Beschrijving 📃
 
+> Doel opdracht: Leren hoe je verschillende states van de UI-Stack kan tonen in de interface.
+
+User story 👥
+
+`#10. Als ouder wil ik vragen kunnen stellen over het stappenplan of het account aanmaken of de vragenlijst/test zodat ik...`
+
 ## Wireflow ✏️ 
 
 ## Licentie
