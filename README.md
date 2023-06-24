@@ -14,6 +14,7 @@ User story 👥
 
 ![image](https://github.com/Nazneen05x/connecting-people-ui-stack/assets/112861261/f7521e4c-fa47-47bf-b8cb-974bc6c216c2)
 
+## Break-down schets 👩🏾‍💻
 
 ## Licentie
 
