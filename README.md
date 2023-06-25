@@ -14,7 +14,17 @@ User story 👥
 
 <img width="600" alt="" src="https://github.com/Nazneen05x/connecting-people-ui-stack/assets/112861261/f7521e4c-fa47-47bf-b8cb-974bc6c216c2">
 
+## Oude Wireflow ✏️ 
+
+<img width="700" alt="" src="https://github.com/Nazneen05x/connecting-people-ui-stack/assets/112861261/1c7a3ed6-51be-4c01-bda8-e50e3e12d89c">
+
+
 ## Break-down schets 👩🏾‍💻
+
+## Break-down schets forum ✏️
+
+<img width="700" alt="" src="https://github.com/Nazneen05x/connecting-people-ui-stack/assets/112861261/f5a2c45c-b391-4ff1-9954-2363d51f7b2d">
+
 
 ## Licentie
 
