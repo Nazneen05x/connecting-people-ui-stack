@@ -25,6 +25,11 @@ User story 👥
 
 <img width="700" alt="" src="https://github.com/Nazneen05x/connecting-people-ui-stack/assets/112861261/f5a2c45c-b391-4ff1-9954-2363d51f7b2d">
 
+## Break-down schets Chatbox ✏️
+
+<img width="600" alt="" src="https://github.com/Nazneen05x/connecting-people-ui-stack/assets/112861261/67645bc4-588b-4d85-9309-a2686c22d21c">
+
+
 
 ## Licentie
 
